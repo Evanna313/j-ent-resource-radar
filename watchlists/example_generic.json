@@ -1,0 +1,22 @@
+{
+  "artist": "ARTIST_NAME",
+  "aliases": [
+    "GROUP_NAME",
+    "NICKNAME"
+  ],
+  "window": "2026年秋冬",
+  "focus": [
+    "television_drama",
+    "film",
+    "streaming",
+    "stage",
+    "mc",
+    "commercial",
+    "public_rumor_spillover"
+  ],
+  "privacy": {
+    "public_sources_only": true,
+    "no_private_accounts": true,
+    "no_private_location_tracking": true
+  }
+}

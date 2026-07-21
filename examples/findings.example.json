@@ -1,0 +1,24 @@
+[
+  {
+    "tier": "A",
+    "headline": "示例：电视台正式宣布新剧出演",
+    "source_name": "Official TV Network",
+    "url": "https://example.com/official-announcement",
+    "published_at": "2026-07-21",
+    "summary": "电视台正式页面列出艺人、角色、播出时间和制作班底。",
+    "status": "new",
+    "corroboration": "事务所官方页面同步更新。",
+    "notes": "这是虚构示例，请替换成真实发现。"
+  },
+  {
+    "tier": "D",
+    "headline": "示例：匿名论坛称秋季有新项目",
+    "source_name": "Anonymous forum",
+    "url": "https://example.com/forum-post",
+    "published_at": "2026-07-20",
+    "summary": "匿名用户只说“秋にある”，没有项目名、电视台或共演者。",
+    "status": "unclear",
+    "corroboration": "没有找到第二来源。",
+    "notes": "只能列为未证实传闻。"
+  }
+]
